@@ -1,6 +1,6 @@
 # ASCII Table
 
-Extended ASCII Table
+Extended ASCII Table.
 
 ## Web:
 
